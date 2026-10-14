@@ -1,0 +1,31 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 100px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
